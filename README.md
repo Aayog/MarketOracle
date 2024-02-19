@@ -24,7 +24,7 @@ Stock Insighter is a cutting-edge platform designed to provide real-time analyti
 - **Caching**: Redis provides fast data caching to enhance performance.
 
 ## UML Diagram
-![UML class diagram](./UML.png "Models related to Users, Stocks, Stock Predictions, and Sentiment Analysis)
+![UML class diagram](./UML.png "Models related to Users, Stocks, Stock Predictions, and Sentiment Analysis")
 ## Getting Started
 
 ### Prerequisites
